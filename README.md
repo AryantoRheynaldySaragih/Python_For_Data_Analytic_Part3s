@@ -1,6 +1,7 @@
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/4dd63915-a40e-449c-9c1b-2250cf047629)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/5dba652c-86b2-4062-9350-fb49f76eaaf3)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/4421515a-d50e-4559-b380-d1ade9d7e00a)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/87b8e750-e92d-47f8-9a3c-08fae08c13d0)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/d969d230-6d0e-4e83-ba16-41fee20d5a3e)# Python_For_Data_Analytic_Part3s
 
 ## Numpy 
+
 NumPy (Numerical Python) is a Python library that focuses on scientific computing. NumPy has the ability to create N-dimensional array objects, which are similar to lists in Python. The advantage of NumPy arrays compared to lists in Python is that they consume less memory and run time faster.
 
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/5c716fc1-16b4-421b-9ce8-bf7f94320d3a)
@@ -9,12 +10,15 @@ NumPy (Numerical Python) is a Python library that focuses on scientific computin
 A dimension in arrays is one on level of array dapth (nested arrays).
 
 1.  Create a 1-D array
+   
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/34f788ea-8499-4adb-a23e-1edb3d2286df)
 
 2.Create a 2-D array
+
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/cb782272-4633-476d-bfab-afd6801bb2e7)
 
 3.  Create a 3-D array with two 2-D arrays, both containing two arrays
+   
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/3373fb46-0aec-4e0c-82db-d6a94c3e2cbe)
 
 ## Pandas
@@ -43,9 +47,11 @@ Series is a one-dimensional labeled array that can hold data of any type. It doe
 The loc and iloc functions in Pandas are used to slice a data set. The function .loc is primarily used for label indexing, while . iloc is mainly used for integer indexing.
 
 1.  Selecting and slicing using loc :
+   
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/dc2dc08c-9651-4779-956b-9803b0009aaf)
 
 2.  Selecting and slicing using Iloc :
+   
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/efa2a475-bedb-440a-a0a2-1e55ee691a55)
 
 ## Data Frame
@@ -53,13 +59,16 @@ DataFrame is a 2-dimensional labeled data structure with columns of potentially 
 
 1. To create data frame first step,we created 3 data series, namely nilai, jumlahsiswa, and kode for a subject. The 3 data series can be seen bellow :
 
-- Data Series 1 
+- Data Series 1
+  
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/674e0865-d744-42ce-9c96-e0824b77659f)
 
 - Data Series 2
+  
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/ce0069bb-b17c-41fc-8283-80d5d4ca6ed5)
 
 - Data series 3
+  
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/7c6da3d7-5f7b-4805-b1b9-3b39efddb453)
 
 2.  Next,to create a data frame from these 3 series we need to use the pd.DataFrame format as below :
@@ -76,18 +85,23 @@ Sometimes generating a simple Series doesn’t accomplish our goals. For more co
 Dataset typically refers to a structured collection of data that is organized and stored for the purpose of analysis, processing, or machine learning tasks. 
 
 1. Import Dataset to Jupyter Notebook
+   
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/eab5a077-29bf-4841-98e4-8a9f47b43666)
 
 2. View The Top 10 Data
+   
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/d5e122c7-c855-4b86-a9cc-bfa76a0ac801)
 
 3. View The Bottom 10 Data
+   
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/4383fe0c-7122-4f70-bdbd-45ec37044dc2)
 
 4.View Data Info From Dataset
+
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/5d0157fe-20b6-41e9-9142-fc15dcfcec35)
 
 5.Displays information from columns in the form of numbers
+
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/8e745029-2056-4cee-a952-57220160b8c8)
 
 
