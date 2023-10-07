@@ -86,7 +86,7 @@ Dataset typically refers to a structured collection of data that is organized an
 
 
 ### Python Mini Projects
-Question :
+-  Question :
 Mrs. Inge wants to determine scholarship recipients based on their academic achievement index (GPA). Mrs. Inge asks for your help in selecting scholarship recipients:
 
 A.Write a Python program that allows Ms. Inge to enter student names and their GPAs for 10 students in the format "Name | GPA" (example: 'Adi Alkatiri | 3.8').
@@ -98,15 +98,18 @@ B.Based on the data entered, the program must determine the scholarship recipien
 
 C.To obtain scholarship status, you are required to create a function receives parameters in the form of grades and returns the scholarship.
 
-Answer :
-Question A 
+-  Answer :
+1.  Question A
+   
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/78f3da6e-7af8-48bd-acfa-fa1195c2d72e)
 
-Question B
+2.  Question B
+3.  
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/cab11a4b-8e65-4097-8b4d-7ca13558c227)
 
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/2121d27b-8da1-424a-b51b-248fec48e7ef)
 
-Question C
+3.  Question C
+   
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/38a90cf4-87e0-46ed-8d15-6331aed5147c)
 
