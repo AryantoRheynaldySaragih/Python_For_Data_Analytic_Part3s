@@ -1,4 +1,4 @@
-![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/4dd63915-a40e-449c-9c1b-2250cf047629)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/5dba652c-86b2-4062-9350-fb49f76eaaf3)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/4421515a-d50e-4559-b380-d1ade9d7e00a)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/87b8e750-e92d-47f8-9a3c-08fae08c13d0)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/d969d230-6d0e-4e83-ba16-41fee20d5a3e)# Python_For_Data_Analytic_Part3s
+# Python_For_Data_Analytic_Part3s
 
 ## Numpy 
 
