@@ -1,4 +1,4 @@
-![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/4421515a-d50e-4559-b380-d1ade9d7e00a)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/87b8e750-e92d-47f8-9a3c-08fae08c13d0)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/d969d230-6d0e-4e83-ba16-41fee20d5a3e)# Python_For_Data_Analytic_Part3s
+![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/4dd63915-a40e-449c-9c1b-2250cf047629)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/5dba652c-86b2-4062-9350-fb49f76eaaf3)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/4421515a-d50e-4559-b380-d1ade9d7e00a)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/87b8e750-e92d-47f8-9a3c-08fae08c13d0)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/d969d230-6d0e-4e83-ba16-41fee20d5a3e)# Python_For_Data_Analytic_Part3s
 
 ## Numpy 
 NumPy (Numerical Python) is a Python library that focuses on scientific computing. NumPy has the ability to create N-dimensional array objects, which are similar to lists in Python. The advantage of NumPy arrays compared to lists in Python is that they consume less memory and run time faster.
@@ -8,8 +8,13 @@ NumPy (Numerical Python) is a Python library that focuses on scientific computin
 ## Dimension In Arrays
 A dimension in arrays is one on level of array dapth (nested arrays).
 
+1.  Create a 1-D array
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/34f788ea-8499-4adb-a23e-1edb3d2286df)
+
+2.Create a 2-D array
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/cb782272-4633-476d-bfab-afd6801bb2e7)
+
+3.  Create a 3-D array with two 2-D arrays, both containing two arrays
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/3373fb46-0aec-4e0c-82db-d6a94c3e2cbe)
 
 ## Pandas
