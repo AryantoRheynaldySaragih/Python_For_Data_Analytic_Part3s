@@ -1,4 +1,5 @@
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/4421515a-d50e-4559-b380-d1ade9d7e00a)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/87b8e750-e92d-47f8-9a3c-08fae08c13d0)![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/d969d230-6d0e-4e83-ba16-41fee20d5a3e)# Python_For_Data_Analytic_Part3s
+
 ## Numpy 
 NumPy (Numerical Python) is a Python library that focuses on scientific computing. NumPy has the ability to create N-dimensional array objects, which are similar to lists in Python. The advantage of NumPy arrays compared to lists in Python is that they consume less memory and run time faster.
 
@@ -36,10 +37,10 @@ Series is a one-dimensional labeled array that can hold data of any type. It doe
 ## Loc And Iloc
 The loc and iloc functions in Pandas are used to slice a data set. The function .loc is primarily used for label indexing, while . iloc is mainly used for integer indexing.
 
-Selecting and slicing using loc :
+1.  Selecting and slicing using loc :
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/dc2dc08c-9651-4779-956b-9803b0009aaf)
 
-Selecting and slicing using Iloc :
+2.  Selecting and slicing using Iloc :
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/efa2a475-bedb-440a-a0a2-1e55ee691a55)
 
 ## Data Frame
@@ -56,7 +57,7 @@ DataFrame is a 2-dimensional labeled data structure with columns of potentially 
 - Data series 3
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/7c6da3d7-5f7b-4805-b1b9-3b39efddb453)
 
-2.Next,to create a data frame from these 3 series we need to use the pd.DataFrame format as below :
+2.  Next,to create a data frame from these 3 series we need to use the pd.DataFrame format as below :
 
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/52786c30-4c0b-49c1-b49d-f0bd26a22617)
 
@@ -104,7 +105,7 @@ C.To obtain scholarship status, you are required to create a function receives p
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/78f3da6e-7af8-48bd-acfa-fa1195c2d72e)
 
 2.  Question B
-3.  
+   
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/cab11a4b-8e65-4097-8b4d-7ca13558c227)
 
 ![image](https://github.com/AryantoRheynaldySaragih/Python_For_Data_Analytic_Part3s/assets/147115152/2121d27b-8da1-424a-b51b-248fec48e7ef)
